@@ -1,5 +1,14 @@
 # Обработка для анализа и контроля прав доступа в 1С
-![version](https://img.shields.io/badge/release-v4.0-blue) ![Static Badge](https://img.shields.io/badge/telegram-chat-blue?link=https%3A%2F%2Ft.me%2Fqiqtpp)
+ ![1C](https://img.shields.io/badge/1%D0%A1-8.3-red?style=plastic&color=FFD700)
+ ![Static Badge](https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red)
+ ![Version](https://img.shields.io/badge/release-v4.0-32CD32?style=plastic&color=32CD32)
+ 
+ ![tg](https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&color=blue)
+ ![gmail](https://img.shields.io/badge/gmail-Grey?style=plastic&logo=gmail&color=grey)
+
+
+
+
 
 Документация предоставляет полное описание функционала программы **Анализ и контроль доступа**. Используйте ее в качестве руководства для эффективного администрирования прав доступа в системе. Данная программа обеспечивает простоту настройки, мониторинга и анализа прав, а также автоматизацию ряда операций.
 
