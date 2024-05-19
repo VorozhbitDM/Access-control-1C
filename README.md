@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/%D0%9A%D0%90_2.4%2F2.5_%7C_ERP_2.5_%7C_%D0%A3%D0%A2_11.4-Yellow?style=plastic&logoColor=Yellow&label=tested&color=FFD700">
+<img src="https://img.shields.io/badge/KA_2.4%2F2.5_%7C_ERP_2.5_%7C_%D0%A3%D0%A2_11.4%20-Yellow?style=plastic&logo=adguard&logoColor=Yellow&label=tested&color=FFD700">
 </p>
 
 Обработка представляет собой набор инструментов для анализа и интерактивного управления правами доступа. Это не отчет, содержащий сводную информацию, а средство для непосредственного взаимодействия, предназначенное для решения задач в реальном времени.
