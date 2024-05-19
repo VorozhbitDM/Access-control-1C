@@ -1,20 +1,22 @@
-
+<p align="center"> 
 <a href="https://ibb.co/nnwtLRp"><img src="https://i.ibb.co/s6gzVt7/123-transformed-1.png" alt="123-transformed-1" border="0"></a>
+</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/1%D0%A1-8.3-red?style=plastic&color=FFD700">
+<img src="https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red"> 
+<img src="https://img.shields.io/badge/release-v4.0-32CD32?style=plastic&color=32CD32"> 
+</p>
 Обработка представляет собой набор инструментов для получения необходимых данных и интерактивного взаимодействия с ними. Это не отчет, содержащий сводную информацию, а средство для непосредственного взаимодействия, предназначенное для решения задач в реальном времени.
 
 Документация предоставляет полное описание функционала программы **Анализ и контроль доступа**. Используйте ее в качестве руководства для эффективного администрирования прав доступа в системе. Данная программа обеспечивает простоту настройки, мониторинга и анализа прав, а также автоматизацию ряда операций. 
 
-# 🌐 Версии ПО
- ![1C](https://img.shields.io/badge/1%D0%A1-8.3-red?style=plastic&color=FFD700)
- ![Static Badge](https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red)
- ![Version](https://img.shields.io/badge/release-v4.0-32CD32?style=plastic&color=32CD32)
-
 # 📫 Как связаться со мной
- 
- [![tg](https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&color=blue)](https://t.me/qiqtpp)
- [![gmail](https://img.shields.io/badge/gmail-Grey?style=plastic&logo=gmail&color=grey)](mailto:denqiqtp@gmail.com)
+[![tg](https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&color=blue)](https://t.me/qiqtpp) [![gmail](https://img.shields.io/badge/gmail-Grey?style=plastic&logo=gmail&color=grey)](mailto:denqiqtp@gmail.com)
 
+ 
+ 
+ 
 _______________________________________________________________________________________________________________________________
 
 # 📑 Оглавление
