@@ -3,10 +3,15 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/1%D0%A1-8.3-red?style=plastic&color=FFD700">
+<img src="https://img.shields.io/badge/8.3-Yellow?style=plastic&logoColor=Yellow&label=1C&color=FFD700">
 <img src="https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red"> 
 <img src="https://img.shields.io/badge/release-v4.0-32CD32?style=plastic&color=32CD32"> 
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%D0%9A%D0%90_2.4%2F2.5_%7C_ERP_2.5_%7C_%D0%A3%D0%A2_11.4-Yellow?style=plastic&logoColor=Yellow&label=tested&color=FFD700">
+</p>
+
 Обработка представляет собой набор инструментов для анализа и интерактивного управления правами доступа. Это не отчет, содержащий сводную информацию, а средство для непосредственного взаимодействия, предназначенное для решения задач в реальном времени.
 
 Документация предоставляет полное описание функционала программы **Анализ и контроль доступа**. Используйте ее в качестве руководства для эффективного администрирования прав доступа в системе. Данная программа обеспечивает простоту настройки, мониторинга и анализа прав, а также автоматизацию ряда операций. 
