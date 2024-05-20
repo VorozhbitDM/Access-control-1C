@@ -24,7 +24,8 @@
 >
 > Буду рад помочь с настройкой и ответить на все ваши вопросы!
 
-[![link](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-v4.0-BLUE?style=for-the-badge&logo=github)](https://disk.yandex.ru/d/PiNmaalHsXWbjg)
+[![link](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D1%81%20%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0-v4.0-BLUE?style=for-the-badge&logo=microsoftonedrive&labelColor=2E8B57&color=FFD700)](https://disk.yandex.ru/d/PiNmaalHsXWbjg)
+
 
 
 
