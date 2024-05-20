@@ -29,9 +29,6 @@
 
 
 
-https://github.com/VorozhbitDM/Access-control-1C/raw/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0_v4_0.epf
-
-
 ### 📫 Как связаться со мной
 [![tg](https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&color=blue)](https://t.me/qiqtpp) [![gmail](https://img.shields.io/badge/gmail-Grey?style=plastic&logo=gmail&color=grey)](mailto:denqiqtp@gmail.com)
 
