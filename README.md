@@ -24,7 +24,8 @@
 >
 > Буду рад помочь с настройкой и ответить на все ваши вопросы!
 
-![Static Badge](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-v4.0-BLUE?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FVorozhbitDM%2FAccess-control-1C%2Fcommit%2Ff58502d4692cf9491882925e07edbaa2c52ba26b)
+![Static Badge](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-v4.0-BLUE?style=for-the-badge&logo=github&link=https%3A%2F%2Fdisk.yandex.ru%2Fd%2FPiNmaalHsXWbjg)
+
 
 
 
