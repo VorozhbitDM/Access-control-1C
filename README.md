@@ -32,7 +32,7 @@
 ### 📫 Как связаться со мной
 [![tg](https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&color=blue)](https://t.me/qiqtpp) [![gmail](https://img.shields.io/badge/gmail-Grey?style=plastic&logo=gmail&color=grey)](mailto:denqiqtp@gmail.com)
 
- 
+[![link](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)](https://infostart.ru/1c/tools/2111320/) 
  
  
 _______________________________________________________________________________________________________________________________
@@ -335,7 +335,7 @@ ________________________________________________________________________________
 Возможно, что подойдет и для других, основанных на БСП.
 
 ___________________________________________________________________________________________________
-https://infostart.ru/1c/tools/2111320/
+
 
 
 
