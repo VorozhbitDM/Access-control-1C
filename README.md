@@ -32,12 +32,14 @@ ________________________________________________________________________________
 
 </details>
 
+- [x] Добавлена проверка дополнительных прав в анализе связей объекта. <details><summary> Подробнее </summary> <img src="https://github.com/VorozhbitDM/Access-control-1C/assets/170056560/bbc014f7-3597-4034-8caa-80ec1c5e91e0">
+
+</details>
+
 - [x] Изменена форма справки. <details><summary> Подробнее </summary> <img src="https://github.com/VorozhbitDM/Access-control-1C/assets/170056560/c7feb7fb-e8a1-45e0-a7d5-0460c2e9058b">
 </details>
 
 - [x] Исправлены найденные ошибки.
-
-
 
 
 
