@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/8.3-Yellow?style=plastic&logoColor=Yellow&label=1C&color=FFD700">
 <img src="https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red"> 
-<img src="https://img.shields.io/badge/release-v4.0-32CD32?style=plastic&color=1E90FF"> 
+<img src="https://img.shields.io/badge/release-v4.1-32CD32?style=plastic&color=1E90FF"> 
 </p>
 
 <p align="center">
