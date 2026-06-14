@@ -72,6 +72,29 @@
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="ГруппаШапкаРасширеннаяПодсказка" id="10"/>
 							<ChildItems>
+								<InputField name="ИмяКонфигурации" id="603">
+									<DataPath>ИмяКонфигурации</DataPath>
+									<Title>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Конфигурация</v8:content>
+										</v8:item>
+									</Title>
+									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem"/>
+									<ToolTip>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Определяет набор запросов и доступный функционал обработки. Сохраняется в файл обработки.</v8:content>
+										</v8:item>
+									</ToolTip>
+									<ListChoiceMode>true</ListChoiceMode>
+									<AutoMarkIncomplete>true</AutoMarkIncomplete>
+									<ContextMenu name="ИмяКонфигурацииКонтекстноеМеню" id="604"/>
+									<ExtendedTooltip name="ИмяКонфигурацииРасширеннаяПодсказка" id="605"/>
+									<Events>
+										<Event name="OnChange">ИмяКонфигурацииПриИзменении</Event>
+									</Events>
+								</InputField>
 								<CheckBoxField name="ОтключитьПредупреждениеОбОпасныхДействиях" id="63">
 									<DataPath>ОтключитьПредупреждениеОбОпасныхДействиях</DataPath>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem"/>
@@ -697,6 +720,29 @@ Srv-terminal-1c.bamr.ru</v8:content>
 								</UsualGroup>
 							</ChildItems>
 						</UsualGroup>
+						<UsualGroup name="ГруппаОчисткаДанныхОбработки" id="606">
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Очистка данных обработки</v8:content>
+								</v8:item>
+							</Title>
+							<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+							<ToolTip>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа очистка данных обработки</v8:content>
+								</v8:item>
+							</ToolTip>
+							<ExtendedTooltip name="ГруппаОчисткаДанныхОбработкиРасширеннаяПодсказка" id="607"/>
+							<ChildItems>
+								<Button name="УдалитьЗаписиИзХранилищаНастроек" id="608">
+									<Type>UsualButton</Type>
+									<CommandName>Form.Command.УдалитьЗаписиИзХранилищаНастроек</CommandName>
+									<ExtendedTooltip name="УдалитьЗаписиИзХранилищаНастроекРасширеннаяПодсказка" id="609"/>
+								</Button>
+							</ChildItems>
+						</UsualGroup>
 					</ChildItems>
 				</Page>
 			</ChildItems>
@@ -861,6 +907,43 @@ Srv-terminal-1c.bamr.ru</v8:content>
 					</Type>
 				</Column>
 			</Columns>
+		</Attribute>
+		<Attribute name="ИмяКонфигурации" id="606">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Конфигурация информационной базы</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>20</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="СписокКонфигураций" id="607">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Список конфигураций</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>v8:ValueListType</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ОтключитьПредупреждениеПриОткрытии" id="608">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Отключить предупреждение при открытии</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
 		</Attribute>
 		<Attribute name="ОтключитьПредупреждениеОбОпасныхДействиях" id="10">
 			<Title>
@@ -1182,6 +1265,22 @@ Srv-terminal-1c.bamr.ru</v8:content>
 			<Action>ОчиститьИсправленныеОшибки</Action>
 			<Representation>TextPicture</Representation>
 		</Command>
+		<Command name="УдалитьЗаписиИзХранилищаНастроек" id="15">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сбросить настройки программы</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Удаляет все сохранённые настройки обработки из хранилищ ИБ для текущего пользователя. При следующем открытии будет предложен выбор конфигурации и применены значения по умолчанию.</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>УдалитьЗаписиИзХранилищаНастроек</Action>
+			<Representation>TextPicture</Representation>
+		</Command>
 	</Commands>
 	<Parameters>
 		<Parameter name="ИспользоватьАвтоПоискОшибок">
@@ -1246,6 +1345,20 @@ Srv-terminal-1c.bamr.ru</v8:content>
 		<Parameter name="ДинамическийПериодПоиска">
 			<Type>
 				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Parameter>
+		<Parameter name="ИмяКонфигурации">
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>20</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Parameter>
+		<Parameter name="СписокКонфигураций">
+			<Type>
+				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
 		</Parameter>
 		<Parameter name="ОтключитьПредупреждениеОбОпасныхДействиях">
