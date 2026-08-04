@@ -1487,6 +1487,11 @@
 														<CommandName>Form.Command.СоздатьГруппуИПрофильАвто</CommandName>
 														<ExtendedTooltip name="РолиОбъектаКонтекстноеМенюСоздатьГруппуИПрофильАвтоРасширеннаяПодсказка" id="530"/>
 													</Button>
+													<Button name="РолиОбъектаКонтекстноеМенюДобавитьРольВПрофиль" id="581">
+														<Type>CommandBarButton</Type>
+														<CommandName>Form.Command.ДобавитьРольВСуществующийПрофиль</CommandName>
+														<ExtendedTooltip name="РолиОбъектаКонтекстноеМенюДобавитьРольВПрофильРасширеннаяПодсказка" id="582"/>
+													</Button>
 												</ChildItems>
 											</ContextMenu>
 											<AutoCommandBar name="РолиОбъектаКоманднаяПанель" id="348">
@@ -4878,6 +4883,26 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ОтчетыПоРолям</Action>
+		</Command>
+		<Command name="ДобавитьРольВСуществующийПрофиль" id="38">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Добавить роль в существующий профиль</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Добавить найденную роль в уже имеющийся профиль групп доступа</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.ChooseValue</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ДобавитьРольВСуществующийПрофиль</Action>
+			<Representation>TextPicture</Representation>
 		</Command>
 	</Commands>
 </Form>
